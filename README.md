@@ -17,7 +17,3 @@ En los archivos prueba.ipynb y 1D.ipynb se realiza la conección a la base de da
 
 Con los datos obtenidos se diseña el modelo de una red neuronal convolucional de 1D y una red neuronal Long Short Term Memory (LSTM), se compilan los modelos y se entrenan
 
-```java
-import
-```
-Obtener datos de diversas divisas y entrenar una red neuronal que prediga el movimientol dolar
